@@ -7,3 +7,4 @@
 | 05 | [Day 5 CSS Fundamentals assignment](https://github.com/ayushkumarY/webdev-day05-club-site-styled) | Style the Day 4 club website with an external CSS file, selectors, Google Fonts, colour and spacing variables, and DevTools; includes starter CSS and a submission checklist |
 | 06 | [webdev-day06-profile-card](https://github.com/ayushkumarY/webdev-day06-profile-card) | Box Model, Display, and Positioning: create a responsive profile card using layering, sticky/fixed elements, overflow, and box-model fundamentals |
 | 07 | [webdev-day07-flexbox-landing](https://github.com/ayushkumarY/webdev-day07-flexbox-landing) | Responsive Flexbox landing page with navbar, hero, wrapping product cards, pricing cards, and a centred login form |
+| 08 | [webdev-day08-grid-gallery-dashboard](https://github.com/ayushkumarY/webdev-day08-grid-gallery-dashboard) | CSS Grid gallery and dashboard layout |
